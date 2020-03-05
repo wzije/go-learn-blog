@@ -1,0 +1,5 @@
+development:
+  dialect: mysql
+  datasource: root:localhost@tcp(127.0.0.1:3310)/learn_blog
+  dir: migrations
+  table: migrate
